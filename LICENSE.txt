@@ -1,4 +1,4 @@
-Copyright (c) 2025 David Tiago Severus Brooks
+Copyright (c) 2025 Dawid Piechowka
 
 All rights reserved.
 
